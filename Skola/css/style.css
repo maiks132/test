@@ -1,0 +1,19 @@
+html{
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+a{
+	color: red;
+	font-size: 30px;
+}
+a:hover{
+	color: yellow;
+}
+li:last-child{
+	text-decoration: underline;
+}
+li:not(:first-child){
+	background-color: aqua;
+}
