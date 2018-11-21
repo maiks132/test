@@ -1,22 +1,19 @@
-html{
-	box-sizing: border-box;
-}
-*, *:before, *:after {
-	box-sizing: inherit;
-}
-.title-picture{
-	width: 100%;
-	padding: 20px 0px;
+/*
+	Ja tiek izmantots bootsrap tad sis nebus nepieciesams :)
 
-}
-.container .col{
-	display: inline-block;
-}
-.col p{
-	text-align: center;
-}
-.col .image{
-	display: block;
-	margin: 0 auto;
+	html{
+		box-sizing: border-box;
+	}
+	*, *:before, *:after {
+		box-sizing: inherit;
+	}
+*/
+
+.title-picture {
+  width: 100%;
+  padding: 20px 0px;
 }
 
+.col p {
+  text-align: center;
+}
