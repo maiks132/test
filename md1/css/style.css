@@ -9,17 +9,17 @@ html{
 	padding: 20px 20px;
 
 }
-.container .box{
+.container .col{
 	display: inline-block;
-	width: 33%;
+	/*width: 33%;
 	margin: 0 auto;
 	box-sizing: border-box;
-	padding: 0px 10px;
+	padding: 0px 10px;*/
 }
-.box p{
-	text-align: left;
+.col p{
+	text-align: center;
 }
-.box .image{
+.col .image{
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 10px;
