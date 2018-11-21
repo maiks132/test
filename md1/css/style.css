@@ -6,15 +6,11 @@ html{
 }
 .title-picture{
 	width: 100%;
-	padding: 20px 20px;
+	padding: 20px 0px;
 
 }
 .container .col{
 	display: inline-block;
-	/*width: 33%;
-	margin: 0 auto;
-	box-sizing: border-box;
-	padding: 0px 10px;*/
 }
 .col p{
 	text-align: center;
@@ -22,6 +18,5 @@ html{
 .col .image{
 	display: block;
 	margin: 0 auto;
-	padding-bottom: 10px;
 }
 
