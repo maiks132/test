@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,6 +12,6 @@
 	<li>2</li>
 	<li>3</li>
 </ul>
-
+<?php phpinfo(); ?>
 </body>
 </html>

@@ -1,0 +1,1657 @@
+/* Extra small <576px */
+
+position: relative;
+width: 320px;
+height: 4000px;
+
+
+
+/* Main */
+
+position: absolute;
+width: 320px;
+height: 4000px;
+left: -32px;
+top: 0px;
+overflow-y: scroll;
+
+background: #FFFFFF;
+
+
+/* Header */
+
+position: absolute;
+width: 320px;
+height: 60px;
+left: 0px;
+top: 50px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 320px;
+height: 60px;
+left: calc(50% - 320px/2);
+top: calc(50% - 60px/2 - 1920px);
+
+background: #FFFFFF;
+
+
+/* Suflē.lv */
+
+position: absolute;
+width: 118px;
+height: 30px;
+left: 19px;
+top: 66px;
+
+font-family: Allura;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 36px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px #7BA885;
+
+
+/* Dropdown */
+
+position: absolute;
+width: 30px;
+height: 20px;
+left: 273px;
+top: 70px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 30px;
+height: 3.53px;
+left: 273px;
+top: 70px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 3.1 */
+
+position: absolute;
+width: 30px;
+height: 3.53px;
+left: 273px;
+top: 78.24px;
+
+background: #C4C4C4;
+
+
+/* Rectangle 3.2 */
+
+position: absolute;
+width: 30px;
+height: 3.53px;
+left: 273px;
+top: 86.47px;
+
+background: #C4C4C4;
+
+
+/* Top Header */
+
+position: absolute;
+width: 320px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 320px;
+height: 50px;
+left: 0px;
+top: 0px;
+
+border: 0.25px solid #878787;
+
+
+/* Serch bar */
+
+position: absolute;
+width: 200px;
+height: 40px;
+left: 0px;
+top: 5px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 200px;
+height: 40px;
+left: 0px;
+top: 5px;
+
+
+
+/* Search and hit enter... */
+
+position: absolute;
+width: 139px;
+height: 12px;
+left: 19px;
+top: 17px;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: 200;
+line-height: normal;
+font-size: 14px;
+
+color: #C4C4C4;
+
+
+
+/* Lupa */
+
+position: absolute;
+width: 10px;
+height: 14px;
+left: 150px;
+top: 18px;
+
+
+
+/* Line */
+
+position: absolute;
+width: 10.3px;
+height: 0px;
+left: 155px;
+top: 23px;
+
+border: 1px solid #878787;
+transform: rotate(60.95deg);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 150px;
+top: 18px;
+
+background: #FFFFFF;
+border: 1px solid #878787;
+box-sizing: border-box;
+
+
+/* Ellipse */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 273px;
+top: 12px;
+
+background: url(user_avatar_admin_web_mobile_business_office-512.png), #C4C4C4;
+
+
+/* baseline_share_black_18dp */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 241px;
+top: 18px;
+
+background: url(baseline_share_black_18dp.png);
+
+
+/* Categories */
+
+position: absolute;
+width: 480px;
+height: 300px;
+left: -80px;
+top: 120px;
+
+
+
+/* Attēls1 */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: -80px;
+top: 120px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: -80px;
+top: 120px;
+
+background: url(erewtwe.jpg), #C4C4C4;
+box-shadow: -4px -4px 4px rgba(0, 0, 0, 0.25), 4px 4px 4px rgba(0, 0, 0, 0.25), inset 0px -70px 4px rgba(0, 0, 0, 0.5);
+
+
+/* Uzraksts */
+
+position: absolute;
+width: 130px;
+height: 30px;
+left: -70px;
+top: 380px;
+
+
+
+/* Something to eat */
+
+position: absolute;
+width: 130px;
+height: 14.44px;
+left: -70px;
+top: 395.56px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #FFFFFF;
+
+
+
+/* May 6, 2018 / Suffle */
+
+position: absolute;
+width: 101.18px;
+height: 21.11px;
+left: -70px;
+top: 380px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #FFFFFF;
+
+
+
+/* Attēls 2 */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: 85px;
+top: 120px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: 85px;
+top: 120px;
+
+background: url(AN318-sushi-platter-732x549-Thumb.jpg), #C4C4C4;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), -4px -4px 4px rgba(0, 0, 0, 0.25), inset 0px -70px 4px rgba(0, 0, 0, 0.5);
+
+
+/* Uzraksts */
+
+position: absolute;
+width: 130px;
+height: 30px;
+left: 95px;
+top: 380px;
+
+
+
+/* Something to eat */
+
+position: absolute;
+width: 130px;
+height: 10.54px;
+left: 95px;
+top: 399.46px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #FFFFFF;
+
+
+
+/* May 6, 2018 / Suffle */
+
+position: absolute;
+width: 101.18px;
+height: 15.41px;
+left: 95px;
+top: 380px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #FFFFFF;
+
+
+
+/* Attēls 3 */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: 250px;
+top: 120px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 150px;
+height: 300px;
+left: 250px;
+top: 120px;
+
+background: url(ultreia-039.jpg), #C4C4C4;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25), -4px -4px 4px rgba(0, 0, 0, 0.25), inset 0px -70px 4px rgba(0, 0, 0, 0.5);
+
+
+/* Uzraksts */
+
+position: absolute;
+width: 130px;
+height: 30px;
+left: 260px;
+top: 380px;
+
+
+
+/* Something to eat */
+
+position: absolute;
+width: 130px;
+height: 10.54px;
+left: 260px;
+top: 399.46px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #FFFFFF;
+
+
+
+/* May 6, 2018 / Suffle */
+
+position: absolute;
+width: 101.18px;
+height: 15.41px;
+left: 260px;
+top: 380px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #FFFFFF;
+
+
+
+/* Carousel */
+
+position: absolute;
+width: 300px;
+height: 550px;
+left: 10px;
+top: 490px;
+
+
+
+/* Carousel photo */
+
+position: absolute;
+width: 300px;
+height: 300px;
+left: 10px;
+top: 490px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 300px;
+left: 10px;
+top: 490px;
+
+background: url(burger-cropped.jpg), #C4C4C4;
+box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.25), 2px 2px 5px rgba(0, 0, 0, 0.25), inset 0px -100px 10px rgba(28, 18, 18, 0.5);
+
+
+/* Uzraksts */
+
+position: absolute;
+width: 212px;
+height: 43px;
+left: 19px;
+top: 737px;
+
+
+
+/* Something to eat */
+
+position: absolute;
+width: 212px;
+height: 30px;
+left: 19px;
+top: 750px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+
+color: #FFFFFF;
+
+
+
+/* May 6, 2018 / Suffle */
+
+position: absolute;
+width: 165px;
+height: 19px;
+left: 19px;
+top: 737px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #FFFFFF;
+
+
+
+/* Caurosel description */
+
+position: absolute;
+width: 300px;
+height: 250px;
+left: 10px;
+top: 790px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 250px;
+left: 10px;
+top: 790px;
+
+background: #E5E5E5;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25), 0px 0px 5px rgba(0, 0, 0, 0.25);
+
+
+/* Ieraksts 1 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 790px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 790px;
+
+background: #FFFFFF;
+box-shadow: inset -1px -1px 1px rgba(0, 0, 0, 0.25), inset 4px 0px 1px #FCAA4B;
+
+
+/* 01 */
+
+position: absolute;
+width: 40px;
+height: 50px;
+left: 20px;
+top: 790px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #878787;
+
+
+
+/* Something about displayed food */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 70px;
+top: 790px;
+
+font-family: Sofadi One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 13px;
+
+color: #000000;
+
+
+
+/* Ieraksts 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 840px;
+
+background: #E5E5E5;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 840px;
+
+background: #F7F5F5;
+
+
+/* 02 */
+
+position: absolute;
+width: 40px;
+height: 50px;
+left: 20px;
+top: 840px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #878787;
+
+
+
+/* Something about displayed food */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 70px;
+top: 840px;
+
+font-family: Sofadi One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 13px;
+
+color: #000000;
+
+
+
+/* Ieraksts 3 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 890px;
+
+background: #E5E5E5;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 890px;
+
+background: #F7F5F5;
+
+
+/* 03 */
+
+position: absolute;
+width: 40px;
+height: 50px;
+left: 20px;
+top: 890px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #878787;
+
+
+
+/* Something about displayed food */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 70px;
+top: 890px;
+
+font-family: Sofadi One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 13px;
+
+color: #000000;
+
+
+
+/* Ieraksts 4 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 940px;
+
+background: #E5E5E5;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 940px;
+
+background: #F7F5F5;
+
+
+/* 04 */
+
+position: absolute;
+width: 40px;
+height: 50px;
+left: 20px;
+top: 940px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #878787;
+
+
+
+/* Something about displayed food */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 70px;
+top: 940px;
+
+font-family: Sofadi One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 13px;
+
+color: #000000;
+
+
+
+/* Ieraksts 5 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 990px;
+
+background: #E5E5E5;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 50px;
+left: 10px;
+top: 990px;
+
+background: #F7F5F5;
+
+
+/* 05 */
+
+position: absolute;
+width: 40px;
+height: 50px;
+left: 20px;
+top: 990px;
+
+font-family: Ribeye;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #878787;
+
+
+
+/* Something about displayed food */
+
+position: absolute;
+width: 240px;
+height: 50px;
+left: 70px;
+top: 990px;
+
+font-family: Sofadi One;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 13px;
+
+color: #000000;
+
+
+
+/* Recipe1 */
+
+position: absolute;
+width: 300px;
+height: 430px;
+left: 10px;
+top: 1090px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 10px;
+top: 1090px;
+
+background: url(blueberry-pancake-breakfast_thumbnaillarge_2017-04-06-17-19-17.jpg), #C4C4C4;
+
+
+/* Description */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 1290px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 1290px;
+
+background: #FFFFFF;
+
+
+/* May 8, 2018 / Suflē */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 12px;
+top: 1311px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #D57300;
+
+
+
+/* Ēdiena īss apraksts */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 12px;
+top: 1340px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+
+/* by Julia Thomson */
+
+position: absolute;
+width: 249px;
+height: 15px;
+left: 12px;
+top: 1375px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #878787;
+
+
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+
+position: absolute;
+width: 298px;
+height: 47px;
+left: 12px;
+top: 1403px;
+
+font-family: Arapey;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #000000;
+
+
+
+/* Countinue */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 1470px;
+
+
+
+/* Continue reading */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 1470px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #606060;
+
+
+
+/* Arrow */
+
+position: absolute;
+width: 10px;
+height: 0px;
+left: 98px;
+top: 1481px;
+
+border: 0.75px solid #FF7B1C;
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+/* Line */
+
+position: absolute;
+width: 300px;
+height: 0px;
+left: 10px;
+top: 1520px;
+
+border: 0.25px solid #C4C4C4;
+
+
+/* Recipe2 */
+
+position: absolute;
+width: 300px;
+height: 430px;
+left: 10px;
+top: 1540px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 10px;
+top: 1540px;
+
+background: url(gn-gift_guide_variable_c.jpg), #C4C4C4;
+
+
+/* Description */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 1740px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 1740px;
+
+background: #FFFFFF;
+
+
+/* May 8, 2018 / Suflē */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 12px;
+top: 1761px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #D57300;
+
+
+
+/* Ēdiena īss apraksts */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 12px;
+top: 1790px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+
+/* by Julia Thomson */
+
+position: absolute;
+width: 249px;
+height: 15px;
+left: 12px;
+top: 1825px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #878787;
+
+
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+
+position: absolute;
+width: 298px;
+height: 47px;
+left: 12px;
+top: 1853px;
+
+font-family: Arapey;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #000000;
+
+
+
+/* Countinue */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 1920px;
+
+
+
+/* Continue reading */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 1920px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #606060;
+
+
+
+/* Arrow */
+
+position: absolute;
+width: 10px;
+height: 0px;
+left: 98px;
+top: 1931px;
+
+border: 0.75px solid #FF7B1C;
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+/* Line */
+
+position: absolute;
+width: 300px;
+height: 0px;
+left: 10px;
+top: 1970px;
+
+border: 0.25px solid #C4C4C4;
+
+
+/* Recipe3 */
+
+position: absolute;
+width: 300px;
+height: 430px;
+left: 10px;
+top: 1990px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 10px;
+top: 1990px;
+
+background: url(recipe-image-legacy-id--1243615_8.jpg), #C4C4C4;
+
+
+/* Description */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 2190px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 2190px;
+
+background: #FFFFFF;
+
+
+/* May 8, 2018 / Suflē */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 12px;
+top: 2211px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #D57300;
+
+
+
+/* Ēdiena īss apraksts */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 12px;
+top: 2240px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+
+/* by Julia Thomson */
+
+position: absolute;
+width: 249px;
+height: 15px;
+left: 12px;
+top: 2275px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #878787;
+
+
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+
+position: absolute;
+width: 298px;
+height: 47px;
+left: 12px;
+top: 2303px;
+
+font-family: Arapey;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #000000;
+
+
+
+/* Countinue */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 2370px;
+
+
+
+/* Continue reading */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 2370px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #606060;
+
+
+
+/* Arrow */
+
+position: absolute;
+width: 10px;
+height: 0px;
+left: 98px;
+top: 2381px;
+
+border: 0.75px solid #FF7B1C;
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+/* Line */
+
+position: absolute;
+width: 300px;
+height: 0px;
+left: 10px;
+top: 2420px;
+
+border: 0.25px solid #C4C4C4;
+
+
+/* Recipe4 */
+
+position: absolute;
+width: 300px;
+height: 430px;
+left: 10px;
+top: 2440px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 10px;
+top: 2440px;
+
+background: url(ryeryer.jpg), #C4C4C4;
+
+
+/* Description */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 2640px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 2640px;
+
+background: #FFFFFF;
+
+
+/* May 8, 2018 / Suflē */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 12px;
+top: 2661px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #D57300;
+
+
+
+/* Ēdiena īss apraksts */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 12px;
+top: 2690px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+
+/* by Julia Thomson */
+
+position: absolute;
+width: 249px;
+height: 15px;
+left: 12px;
+top: 2725px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #878787;
+
+
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+
+position: absolute;
+width: 298px;
+height: 47px;
+left: 12px;
+top: 2753px;
+
+font-family: Arapey;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #000000;
+
+
+
+/* Countinue */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 2820px;
+
+
+
+/* Continue reading */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 2820px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #606060;
+
+
+
+/* Arrow */
+
+position: absolute;
+width: 10px;
+height: 0px;
+left: 98px;
+top: 2831px;
+
+border: 0.75px solid #FF7B1C;
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+/* Line */
+
+position: absolute;
+width: 300px;
+height: 0px;
+left: 10px;
+top: 2870px;
+
+border: 0.25px solid #C4C4C4;
+
+
+/* Recipe5 */
+
+position: absolute;
+width: 300px;
+height: 430px;
+left: 10px;
+top: 2890px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 300px;
+height: 200px;
+left: 10px;
+top: 2890px;
+
+background: url(sush0istock-gkrphoto.jpg), #C4C4C4;
+
+
+/* Description */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 3090px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 300px;
+height: 230px;
+left: 10px;
+top: 3090px;
+
+background: #FFFFFF;
+
+
+/* May 8, 2018 / Suflē */
+
+position: absolute;
+width: 118px;
+height: 16px;
+left: 12px;
+top: 3111px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #D57300;
+
+
+
+/* Ēdiena īss apraksts */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 12px;
+top: 3140px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 20px;
+
+color: #000000;
+
+
+
+/* by Julia Thomson */
+
+position: absolute;
+width: 249px;
+height: 15px;
+left: 12px;
+top: 3175px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 10px;
+
+color: #878787;
+
+
+
+/* It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. */
+
+position: absolute;
+width: 298px;
+height: 47px;
+left: 12px;
+top: 3203px;
+
+font-family: Arapey;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 14px;
+
+color: #000000;
+
+
+
+/* Countinue */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 3270px;
+
+
+
+/* Continue reading */
+
+position: absolute;
+width: 127px;
+height: 13px;
+left: 12px;
+top: 3270px;
+
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 12px;
+
+color: #606060;
+
+
+
+/* Arrow */
+
+position: absolute;
+width: 10px;
+height: 0px;
+left: 98px;
+top: 3281px;
+
+border: 0.75px solid #FF7B1C;
+box-sizing: border-box;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+/* Line */
+
+position: absolute;
+width: 300px;
+height: 0px;
+left: 10px;
+top: 3320px;
+
+border: 0.25px solid #C4C4C4;
